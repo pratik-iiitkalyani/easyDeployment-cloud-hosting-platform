@@ -1,1 +1,1 @@
-# easyDeployment-easyDeployment-cloud-hosting-platform
+# easyDeployment-cloud-hosting-platform
